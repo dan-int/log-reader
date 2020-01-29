@@ -1,3 +1,44 @@
 /* This file is for your main application css. */
 
 @import "./phoenix.css";
+
+
+.container {
+  max-width: 100%;
+}
+
+main {
+  display: flex;
+}
+
+main h2.header {
+  border-bottom: 1px solid #aaa;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  margin-left: 32px;
+  width: 70%;
+}
+
+.insight-box {
+  margin-bottom: 32px;
+}
+
+.insight {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+}
+
+.insight h5 {
+  margin: 4px 0;
+  font-weight: 600;
+}
+
+.log-row {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 8px;
+}

@@ -43,7 +43,7 @@ defmodule LogReaderWeb do
       import LogReaderWeb.ErrorHelpers
       import LogReaderWeb.Gettext
       alias LogReaderWeb.Router.Helpers, as: Routes
-      import Phoenix.LiveView.Controller
+      import Phoenix.LiveView.Helpers
     end
   end
 

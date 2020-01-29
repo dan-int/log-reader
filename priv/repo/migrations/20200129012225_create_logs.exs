@@ -7,7 +7,7 @@ defmodule LogReader.Repo.Migrations.CreateLogs do
       add :message, :text
       add :status_code, :integer
       add :http_method, :string
-      add :duration, :float
+      add :duration, :integer
       add :route, :string
       add :timestamp, :utc_datetime
 

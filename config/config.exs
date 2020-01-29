@@ -15,7 +15,10 @@ config :log_reader, LogReaderWeb.Endpoint,
   url: [host: "localhost"],
   secret_key_base: "ngkbyXmro8UThIdFXVAnpUFiOU++NAsTSCIvA6DF34xA6KKMxrCflrdvtv7sq7AD",
   render_errors: [view: LogReaderWeb.ErrorView, accepts: ~w(html json)],
-  pubsub: [name: LogReader.PubSub, adapter: Phoenix.PubSub.PG2]
+  pubsub: [name: LogReader.PubSub, adapter: Phoenix.PubSub.PG2],
+  live_view: [
+     signing_salt: "ctSMj8I11inuAEtjcF36hgSsZ9S1W7wE"
+   ]
 
 # Configures Elixir's Logger
 config :logger, :console,

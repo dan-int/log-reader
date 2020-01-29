@@ -24,6 +24,7 @@ defmodule LogReaderWeb do
       import Plug.Conn
       import LogReaderWeb.Gettext
       alias LogReaderWeb.Router.Helpers, as: Routes
+      import Phoenix.LiveView.Controller
     end
   end
 
@@ -42,6 +43,7 @@ defmodule LogReaderWeb do
       import LogReaderWeb.ErrorHelpers
       import LogReaderWeb.Gettext
       alias LogReaderWeb.Router.Helpers, as: Routes
+      import Phoenix.LiveView.Controller
     end
   end
 
@@ -50,6 +52,7 @@ defmodule LogReaderWeb do
       use Phoenix.Router
       import Plug.Conn
       import Phoenix.Controller
+      import Phoenix.LiveView.Router
     end
   end
 

@@ -42,7 +42,7 @@ defmodule LogReader.InsightsLive do
     """
   end
 
-  def mount(params, session, socket) do
+  def mount(_params, _session, socket) do
     {:ok, socket
       |> assign(:popular_routes, Log.popular_routes())
       |> assign(:popular_methods, Log.popular_methods())

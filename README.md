@@ -1,5 +1,9 @@
 # LogReader
 
+A Live Demo of this app is running at https://orange-sticky-iceblueredtopzebra.gigalixirapp.com/
+
+# Installation & Running
+
 You'll need the following technologies installed:
 ```
 erlang 22.1.4

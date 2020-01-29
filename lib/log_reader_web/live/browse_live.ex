@@ -6,7 +6,7 @@ defmodule LogReader.BrowseLive do
     ~L"""
     <h2 class="header">Browse Logs</h2>
     <form phx-change="search" phx-submit="search" onsubmit="return false">
-      <input type="text" name="query" value="<%= @query %>" phx-debounce="500"/>
+      <input type="text" name="query" value="<%= @query %>" phx-debounce="500" placeholder="Search" />
     </form>
 
     <div>
@@ -21,7 +21,7 @@ defmodule LogReader.BrowseLive do
     """
   end
 
-  def mount(params, session, socket) do
+  def mount(_params, _session, socket) do
     {:ok, socket
       |> assign(:query, "")
       |> assign(:logs, Log.get_logs())

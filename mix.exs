@@ -20,7 +20,7 @@ defmodule LogReader.MixProject do
   def application do
     [
       mod: {LogReader.Application, []},
-      extra_applications: [:logger, :runtime_tools]
+      extra_applications: [:logger, :runtime_tools, :timex]
     ]
   end
 
@@ -44,7 +44,8 @@ defmodule LogReader.MixProject do
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
       {:phoenix_live_view, "~> 0.6"},
-      {:floki, ">= 0.0.0", only: :test}
+      {:floki, ">= 0.0.0", only: :test},
+      {:timex, "~> 3.5"}
     ]
   end
 

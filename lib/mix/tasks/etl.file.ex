@@ -7,6 +7,10 @@ defmodule Mix.Tasks.Etl.File do
 
   use Mix.Task
 
+  require Logger
+
+  alias LogReader.Log
+
   @shortdoc "Processes a log file"
 
   def run([file_path | _tail]) do
@@ -48,6 +52,7 @@ defmodule Mix.Tasks.Etl.File do
 
   # parse what's currently in the buffer
   defp parse_buffer({buffer_uuid, buffer_line}) do
-    IO.puts buffer_uuid <> buffer_line
+    Logger.debug(buffer_uuid <> " " <> buffer_line)
+    Log.parse(buffer_uuid, buffer_line)
   end
 end

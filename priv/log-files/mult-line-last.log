@@ -1,0 +1,108 @@
+[c6f3dce0-2e05-4741-9215-0ec71601487f] Started GET "/" for 127.0.0.1 at 2016-03-30 15:58:41 -0400
+[c6f3dce0-2e05-4741-9215-0ec71601487f] Processing by SeriesController#index as HTML
+[c6f3dce0-2e05-4741-9215-0ec71601487f]   Rendered text template within layouts/application (0.0ms)
+[c6f3dce0-2e05-4741-9215-0ec71601487f] Completed 200 OK in 388ms (Views: 388.0ms | ActiveRecord: 0.0ms)
+[02180107-cc6a-4541-9798-9bb069c303db] Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[a07fdaf4-565c-409b-b199-3e564290b2ef] Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[91d2d76a-336f-4d83-9911-0cf0407bdc03] Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[8a11c33d-330a-4c19-b80a-b3c965ae107d] Started GET "/assets/hamlcoffee.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[de0bdb39-6237-4041-b90c-d4d7f3983476] Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[62856718-10e6-43e2-95ce-1b496220a773] Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[e5b6bfe8-444b-4feb-a7db-47e19f23123d] Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[2295c737-01ab-4765-b965-d07f69dff946] Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[e89396b1-d592-4c45-8c37-c278dadf1b45] Started GET "/assets/jquery.ui.effect.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[426513a9-af81-4005-b522-a72cef9286ed] Started GET "/assets/jquery.ui.effect-highlight.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[c18ea80a-3bf2-4ac8-87ab-8e5d9ff318a5] Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[635f6b97-2970-42e0-8a5b-372abaecf53c] Started GET "/assets/vendor/jquery.dropkick-1.0.0.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[92e2c59a-b356-47db-94c8-873e2f96b4ca] Started GET "/assets/twitter/bootstrap/typeahead.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[3a916376-6ad6-4305-b2be-89665f1592bb] Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[af70f518-168e-437f-a6e3-41680deae819] Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[89204110-cd0d-46c2-a41e-43e9631a8403] Started GET "/assets/backbone_rails_sync.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[eeeb966f-9692-473c-97f6-4b775560421f] Started GET "/assets/backbone_datalink.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[17e0f95a-f086-4b37-a878-178a2840310d] Started GET "/assets/backbone/ccl.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[5ea2e401-54a9-44db-8a2a-f42e1c51e56e] Started GET "/assets/backbone/mixins/boxable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[e66803a8-2483-48a2-8c8b-d0254ac0c6a0] Started GET "/assets/backbone/mixins/destroyable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[35597ac1-ef43-4323-89dc-d63df29ef790] Started GET "/assets/backbone/mixins/gradeable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[fa4a0a68-c064-4a9f-b661-9b705c4b1d53] Started GET "/assets/backbone/mixins/notable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[2c5d1769-3a4c-4fba-aeea-91cb78eeb7e3] Started GET "/assets/backbone/mixins/priceable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[fb4caca5-27c1-4b30-a749-eb2a029898d0] Started GET "/assets/backbone/models/box.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[a8b1a2c2-4022-4e4d-9d82-72a93c5ffcc5] Started GET "/assets/backbone/models/collection_summary.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[5c356a2c-bf33-4b50-ba55-6a5692cdd99c] Started GET "/assets/backbone/models/condition.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[ad6551f8-0dd8-4417-bb30-26dae2b1f404] Started GET "/assets/backbone/models/issue.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[d89ea608-c576-4dff-86a2-f9b4d3e16cea] Started GET "/assets/backbone/models/library_summary.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[9e034df5-e703-4c06-8fb7-f57754baa9cc] Started GET "/assets/backbone/models/owned_issue.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[1dd6eee3-f0fc-44ee-bd14-7ef030381d41] Started GET "/assets/backbone/models/series.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[334e3a28-381e-4f95-a443-d80c418d75f4] Started GET "/assets/backbone/models/sold_issue.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[f9fffff4-0e05-423a-b47c-9bfec562ca42] Started GET "/assets/backbone/models/wanted_issue.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[a9364599-613a-46d9-90c7-1548c4d64276] Started GET "/assets/backbone/views/boxes/list.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[89e10a85-13fa-48fe-82f6-ef3b7fbfd66b] Started GET "/assets/backbone/views/boxes/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[e8cbdada-8009-4329-b702-c616cf399714] Started GET "/assets/backbone/views/checklist/checklist.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[39170eae-ef20-48b8-b8f6-d03cbaf91733] Started GET "/assets/backbone/views/checklist/issue.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[9902a572-c8b8-446a-acc6-c5c1b8023d56] Started GET "/assets/backbone/views/checklist/series.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[f6415851-87bf-4d02-8bc3-0039e3493f09] Started GET "/assets/backbone/views/collection/summary.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[8457210c-ce4c-4a87-bd56-96ce342ec332] Started GET "/assets/backbone/views/issues/form.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[35352578-b460-4eec-94ba-6421ca074218] Started GET "/assets/backbone/views/issues/row.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[1f6e4a39-9857-4c51-87ef-eb29ac23690f] Started GET "/assets/backbone/views/library/summary.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[b3a2971f-aa8c-49fa-a6c4-3375c455dadd] Started GET "/assets/backbone/views/owned_issues/checklist_show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[788a3b7b-1691-44fa-93a4-0d98cb9851e0] Started GET "/assets/backbone/views/owned_issues/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[ab6bbf80-5d23-4f5b-b6ca-9181edf31631] Started GET "/assets/backbone/views/owned_issues/unboxed.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[08208efe-1dba-4af4-883c-2bd9b3cb06c8] Started GET "/assets/backbone/views/series/edit.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:42 -0400
+[8e76ad5e-f083-468c-98e0-20b036f6bb99] Started GET "/assets/backbone/views/series/form.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[ffd73b98-e63f-41b4-ab30-81e43bec6c7b] Started GET "/assets/backbone/views/series/list.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[fb5a93f4-6953-4b77-b351-0fa04858bb25] Started GET "/assets/backbone/views/series/row.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[0fd06327-e5fb-49d5-a044-b82a17cff4ae] Started GET "/assets/backbone/views/series/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[1991f67c-51e4-4372-aefe-c9fe93fe5e58] Started GET "/assets/backbone/views/shared/paginator.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[f855fd3e-b09e-4937-aac5-917bb46b0d27] Started GET "/assets/backbone/views/sold_issues/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[86037c68-0450-4037-ba8c-cd4e5fea5a41] Started GET "/assets/backbone/views/wanted_issues/checklist_show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[b1edb883-7d64-4415-86b6-d79c97c2948d] Started GET "/assets/backbone/views/wanted_issues/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[73d1e7dd-fb9d-4056-b17b-0624652aad79] Started GET "/assets/backbone/views/wanted_issues/unboxed.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[1b5d5e13-d93f-4553-9a57-6a27a54d7bc0] Started GET "/assets/backbone/routers/series.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[d3ca4e0c-a953-482d-8e19-b781d9c87077] Started GET "/assets/series.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[a3247ff2-aa7f-481d-8366-354b67912fd9] Started GET "/assets/stringify.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[1dceb9ab-00e0-4f3f-8b00-6e0502bd5bad] Started GET "/assets/templates/boxes/list.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[2c25755a-0937-4f76-a220-7eb157af2092] Started GET "/assets/templates/boxes/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[e4d1431e-5499-4e85-83d8-44a7d0667c15] Started GET "/assets/templates/checklist/checklist.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[11ee6601-13b8-4838-8063-9d383b40f4f4] Started GET "/assets/templates/checklist/issue.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[378340b4-e055-42b7-9bcb-cd04a7badb14] Started GET "/assets/templates/checklist/series.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[226cc36b-0db0-49df-9ba5-1d28d7afe770] Started GET "/assets/templates/collection/summary.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[c2cd5ba1-2397-41b1-a18f-8522f8ad0206] Started GET "/assets/templates/issues/form.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[2192e6f1-030c-4904-a46b-fd596d06799d] Started GET "/assets/templates/issues/row.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[bbed877b-e67a-4fa5-85f0-a8cd6e5b3120] Started GET "/assets/templates/library/summary.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[2c3cc147-f3be-49e2-ae35-9175260d81c5] Started GET "/assets/templates/owned_issues/checklist_show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[28d861a5-18a0-46c5-9337-09ddd36a2fdd] Started GET "/assets/templates/owned_issues/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[106c5e02-7d6f-48c9-8f85-b4386fe55198] Started GET "/assets/templates/owned_issues/unboxed.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[141d5310-4358-4784-8783-7788c7e9f55a] Started GET "/assets/templates/series/edit.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[0394a137-8845-4330-bec6-9bdb24baa7c8] Started GET "/assets/templates/series/form.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[ba9a56ee-e95e-494d-bd52-0463456d1abe] Started GET "/assets/templates/series/index.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[884b5a40-8a95-460c-abed-7891c97ec534] Started GET "/assets/templates/series/row.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[38a936ad-1794-49ef-8faa-6d08c86adb4b] Started GET "/assets/templates/series/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[c9927fc0-31ae-4590-89bc-ca9970dcf39c] Started GET "/assets/templates/series/table.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[ad2092db-377f-4ca8-aa7c-d4596c2f18da] Started GET "/assets/templates/shared/boxable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[47d6346a-d580-4b6e-b315-1f6abf1b0fca] Started GET "/assets/templates/shared/gradable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[8e90f459-dcc6-45c6-8fbd-2abe8061b627] Started GET "/assets/templates/shared/notable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[346f6c24-6c9c-418e-bf9a-a2dac4e5af19] Started GET "/assets/templates/shared/paginator.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[e94c2725-3012-428a-a0ad-6e67ae44cf05] Started GET "/assets/templates/shared/priceable.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[c06acd01-f4b5-455b-8f5a-08939b3d9869] Started GET "/assets/templates/sold_issues/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[1162838a-ed0d-4da6-86f9-9d7fbbffcbe1] Started GET "/assets/templates/wanted_issues/checklist_show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[de68511c-8533-4593-8102-36600526b6c0] Started GET "/assets/templates/wanted_issues/show.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[f21efb8e-205c-4d0c-be22-91bfa671c76d] Started GET "/assets/templates/wanted_issues/unboxed.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[fef409a8-3246-4768-92f3-05a7c2a5a9d3] Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:43 -0400
+[18638238-8251-4626-a101-0cc370b991c8] Started GET "/assets/vendor/flat-ui/flat-ui.css?body=1" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[25596a72-4715-4c1f-b76f-a2d078700e63] Started GET "/assets/issues.css?body=1" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[a9cf1e1f-6a3f-46a3-aada-aaf0aa835bdc] Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[f1df7c08-c557-4c1c-8c0d-2d2508486370] Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[20f2dcd3-f03d-429a-8413-5f87a9f6719f] Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[24aa9366-5edc-4a48-8fcf-e3bce0c35715] Started GET "/api/conditions" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[b2efd463-2917-45c0-a9fb-bbfe5da0fe56] Started GET "/assets/vendor/flat-ui/toggle.png" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[24aa9366-5edc-4a48-8fcf-e3bce0c35715] Processing by Api::ConditionsController#index as JSON
+[24aa9366-5edc-4a48-8fcf-e3bce0c35715]   Rendered api/conditions/index.json.rabl (9.7ms)
+[24aa9366-5edc-4a48-8fcf-e3bce0c35715] Completed 200 OK in 18ms (Views: 9.9ms | ActiveRecord: 5.2ms)
+[84312c7e-32de-4560-88e9-71bc540b8988] Started GET "/api/series" for 127.0.0.1 at 2016-03-30 15:58:44 -0400
+[84312c7e-32de-4560-88e9-71bc540b8988] DEPRECATION WARNING: The following options in your Series.has_many :issues declaration are deprecated: :order. Please use a scope block instead. For example, the following:
+
+    has_many :spam_comments, conditions: { spam: true }, class_name: 'Comment'
+
+should be rewritten as the following:
+
+    has_many :spam_comments, -> { where spam: true }, class_name: 'Comment'
+. (called from <class:Series> at /Users/ianenders/Workspace/ccl/app/models/series.rb:3)
